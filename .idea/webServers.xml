@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="32b74157-d7a3-46ac-b756-092b35f2e84d" name="eva1.cs.purdue.edu" url="http://eva0.cs.purdue.edu">
+        <fileTransfer host="eva0.cs.purdue.edu" port="22" rootFolder="/home/lijiacheng" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
